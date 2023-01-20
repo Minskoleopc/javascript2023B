@@ -75,3 +75,7 @@ else {
 }
 
 // sat sun
+
+// fullsatack - 25k ---- 12.5k / 12.5k
+// testautomation 15K ---- 7.5k/7.5k
+// changes
