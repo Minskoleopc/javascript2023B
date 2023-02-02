@@ -75,7 +75,6 @@ console.log(7 === '7' && 8 === 9)
 // true   ||   false  ======> true
 // false  ||   false  ======> false 
 
-
 console.log(7 == 7 || 8 == 8)
 console.log(7 != 7 || 8 == 8)
 console.log(7 == 7 || 8 != 8)
@@ -83,10 +82,8 @@ console.log(7 != 7 || 8 != 8)
 
 
 // Not  !
-
 //True   --- False 
 // False --- True
-
 console.log(!(9 === 9))
 console.log(!(9 !== 9))
 

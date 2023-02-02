@@ -65,7 +65,6 @@ else {
 */ 
 
 // program 3
-
 let a = 50;
 let b = 50;
 // if(a > b){
@@ -76,6 +75,7 @@ let b = 50;
 // }
 //condition ? console.log('if true'):console.log('for false')
 a == b ?console.log('both are equal'):console.log('not equal')
+
 
 
 

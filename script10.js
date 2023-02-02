@@ -77,7 +77,6 @@
 
 
 // print 5 times hello
-
 for(let i = 1 ; i <= 5 ; i++){ //2 // 3 // 4 //5 // 6
     console.log('hello') 
 

@@ -54,27 +54,40 @@ let city = "mumbai"
 
 // program 4
 // loop
-for(let i = 1 ; i <= 3 ; i++){ //2 // 3 // 4
-    console.log(i) // 1 // 2 // 3
-}
+// for(let i = 1 ; i <= 3 ; i++){ //2 // 3 // 4
+//     console.log(i) // 1 // 2 // 3
+// }
 
-// program 5
-// loop
-for(let i = 3 ; i >= 1 ; i--){ //2 // 1 // 0
-    console.log(i) // 3 // 2 // 1
-}
+// // program 5
+// // loop
+// for(let i = 3 ; i >= 1 ; i--){ //2 // 1 // 0
+//     console.log(i) // 3 // 2 // 1
+// }
 
-// program 6
-for(let i = 2 ; i <= 20 ; i = i + 2){ // 22
-    console.log(i)
-}
+// // program 6
+// for(let i = 2 ; i <= 20 ; i = i + 2){ // 22
+//     console.log(i)
+// }
 
-// program 3
+// // program 3
 
+// for(let i = 1 ; i<10 ; i++){
+//     if(i == 5){
+//         break;
+//     }
+//     console.log(i)
+// }
 
-for(let i = 1 ; i<10 ; i++){
-    if(i == 5){
-        break;
-    }
-    console.log(i)
-}
+// for(let i = 1 ; i<10 ; i++){
+//     console.log(i)
+//     if(i == 5){
+//         break;
+//     }
+// }
+
+// for(let i = 1 ; i<10 ; i++){
+//     if(i == 5){
+//         continue;
+//     }
+//     console.log(i)
+// }

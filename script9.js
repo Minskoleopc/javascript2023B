@@ -212,5 +212,4 @@ if(a1 > a2 ){
 else {
     console.log('a2 is greater')
 }
-
 a1 > a2 ? console.log('a1 is greater'):console.log('a2 is greater')

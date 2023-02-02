@@ -111,16 +111,12 @@ console.log(120 >= 120) // True
 
 // == , !=  ========> value 
 // === , !==  ======> value and type 
-
 console.log(10 == '10')
 console.log(10 === '10')
-
-
 console.log(2===2)
 console.log(2 ==='2')
 console.log(2 !=='2')
 console.log(2 == '2')
-
 console.log(4 === '4')
 console.log(4 === 4)
 

@@ -61,15 +61,14 @@ while(i6a <= 5){
 }
 
 // continue
-
 let i7 = 1
-
 while(i7 <= 5){
     if(i7 == 3){
+        i7 ++ // 4
         continue
     }
-    console.log(i7)
-    i7 ++
+    console.log(i7) // 1 // 2 // 4 // 5
+    i7 ++ // 2 // 3 // 5 // 6
 }
 
 
