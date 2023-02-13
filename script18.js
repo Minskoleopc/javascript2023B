@@ -1,6 +1,5 @@
 //              0           1       2        3      4
 let names = ["chinmay", "shirish", "ravi", "rakesh", "sham"]
-
 // property 
 // Type --- Object
 // Properties and Methods 
@@ -68,16 +67,7 @@ for(let i = 0 ; i < numbers.length ; i++){
    }
 }
 console.log(above40)
-
 // program 3
-
-
-
-
-
-// program 3
-
-
 
 
 // program 4

@@ -48,6 +48,19 @@ for(let i = 0 ; i < city.length ; i++){
 }
 
 // program 5
-
 let  numbersa  = [11,22,33,44,55,22,33,44,55]
+// flag
 let allGreaterThan10 = true
+
+for(let i = 0 ; i < numbersa.length , i++){
+    if(numbersa[i] <= 10 ){
+        allGreaterThan10 = false
+    }
+}
+
+if(allGreaterThan10){
+    console.log('All are greater than 10')
+}
+else{
+    console.log("Not all greater than 10")
+}
