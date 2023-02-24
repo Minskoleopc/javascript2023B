@@ -29,8 +29,6 @@
 
 // randomNumber == userGuess ? console.log("Guess is correct"):console.log("Guess is incorrect")
 
-
-
 // program 2 
 let randomNumber = Math.floor(Math.random()*6)+1
 console.log(randomNumber)
@@ -48,6 +46,10 @@ for(let i = 1 ; i <= 5 ; i++){
     }
 
 }
+
+// while
+
+
 
 
 
