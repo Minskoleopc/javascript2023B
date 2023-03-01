@@ -1,0 +1,29 @@
+
+h1 {
+    color: purple;
+}
+
+.three {
+    color:red;
+}
+
+#one {
+    color:green
+}
+
+.fruit {
+    color:orangered;
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+
+.vegetable {
+    color:greenyellow;
+    background-color:black;
+    height: 200px;
+    width: 200px;
+}
+
+
